@@ -1,0 +1,8 @@
+treatment,removal_efficiency,sd
+Control,8.46,1.43
+nZVI100,20.6,2.2
+Strain_L3,34.4,5.48
+Strain_L3+SE,49.0,3.00
+Strain_L3+HA,54.2,2.64
+Strain_L3+nZVI100+SE,75.3,3.31
+Strain_L3+nZVI100+HA,84.5,1.98
