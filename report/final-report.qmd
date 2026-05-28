@@ -1,0 +1,16 @@
+---
+title: "复现：SOM与nZVI协同强化PCP降解"
+author: "张芷璇"
+format: html
+---
+
+## 研究背景
+
+复现 Liu et al. (ES&T, 2022) 中 SOM 和 nZVI 对 PCP 降解的协同效应。
+
+## 加载数据
+
+```{r}
+library(tidyverse)
+data <- read_csv("../data/pcp_removal_data.csv")
+knitr::kable(data)
